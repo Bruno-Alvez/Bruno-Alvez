@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bruno Alves 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> focused on building real-world web solutions, RESTful APIs, and scalable back-end architectures using <code>Python</code>, <code>Node.js</code> and <code>Go</code>.
+  <strong>Full Stack Developer</strong> focused on building real-world web solutions, RESTful APIs, and scalable back-end architectures using <code>Python</code> and <code>Node.js</code>.
 </p>
 
 ---
