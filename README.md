@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Bruno Alves 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> focused on building real-world web solutions, RESTful APIs, and scalable back-end architectures using <code>Python</code> and <code>Node.js</code>.
+  <strong>Back-End Developer</strong> | Python Ecosystem (Django, DRF, FastAPI) | Shipping real-world solutions with clean architecture & modern tooling.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔄 Transitioned from the São Paulo Military Police to Tech — bringing discipline, resilience, and problem-solving from mission-critical environments.
-- 🧠 Currently developing full stack projects using **React, TypeScript, Python, Django, Node.js**, and **Docker**.
-- 🎯 Focused on building clean, maintainable code and applying modern software architecture principles in backend systems.
-- 📚 Studying **Systems Analysis and Development** at PUCPR University + Full Stack Python at EBAC.
-- 🌍 Open to remote and hybrid opportunities in Back-End / Full Stack roles.
+- 🔄 Transitioned from the São Paulo Military Police to Tech — bringing discipline, structure, and critical problem-solving to software engineering.
+- 🧠 Passionate about building clean, scalable, and maintainable systems using **Python, Django, FastAPI**, and **PostgreSQL**.
+- 🔧 Also building front-end interfaces with **React** and **TypeScript** when needed.
+- 📚 Currently studying **Systems Analysis and Development (PUCPR)** and enrolled in the **Full Stack Python program (EBAC)**.
+- 🌍 Open to remote or hybrid opportunities — particularly in Back-End or Python-focused Full Stack roles.
 
 ---
 
@@ -20,13 +20,12 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Frameworks & Tools:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
@@ -36,18 +35,20 @@
 
 ---
 
-### 📂 See all my projects [here →](https://github.com/Bruno-Alvez?tab=repositories)
+### 📂 Projects
+
+🔎 Explore all my repositories [here →](https://github.com/Bruno-Alvez?tab=repositories)
 
 ---
 
-### 📫 Get in Touch
+### 📫 Contact
 
 - 📧 **Email:** bruno.bsantos75@gmail.com  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/brunoalves-tech)  
-- 🌐 Soon: Personal portfolio website (under development)
+- 🌐 Portfolio website: Coming soon!
 
 ---
 
 ### ⚡ Fun Fact
 
-I write code like I operated in the field: focused, structured, and prepared for anything. 🚀
+I write code the same way I operated in the field: structured, focused, and prepared for real-world challenges. 🚀
