@@ -11,7 +11,7 @@
 - 🔄 Transitioned from the São Paulo Military Police to Tech — bringing discipline, structure, and critical problem-solving to software engineering.
 - 🧠 Passionate about building clean, scalable, and maintainable systems using **Python, Django, FastAPI**, and **PostgreSQL**.
 - 🔧 Also building front-end interfaces with **React** and **TypeScript** when needed.
-- 📚 Currently studying **Systems Analysis and Development (PUCPR)** and enrolled in the **Full Stack Python program (EBAC)**.
+- 📚 Currently studying **Systems Analysis and Development in Estácio de Sá Univesity* and enrolled in the **Full Stack Python program (EBAC)**.
 - 🌍 Open to remote or hybrid opportunities — particularly in Back-End or Python-focused Full Stack roles.
 
 ---
@@ -45,7 +45,7 @@
 
 - 📧 **Email:** bruno.bsantos75@gmail.com  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/brunoalves-tech)  
-- 🌐 Portfolio website: Coming soon!
+- 🌐 Portfolio website: (https://www.alvesdeveloper.com)
 
 ---
 
