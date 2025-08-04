@@ -54,6 +54,6 @@
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Final Note
 
-I write code the same way I operated in the field: structured, focused, and prepared for real-world challenges. 🚀
+I code with purpose — translating business needs into clean, scalable solutions that deliver real impact.
