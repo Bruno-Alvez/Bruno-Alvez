@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Specialized in building **scalable APIs**, and **system integrations** using **Python, Django, FastAPI**.
+- 🚀 Specialized in building **scalable APIs**, **microservices**, and **system integrations** using **Python, Django, FastAPI**.
 - 🛡️ My experience in high-pressure environments (São Paulo Military Police) shaped the resilience I apply to **critical systems development**.
 - 🧠 Passionate about **clean architecture**, **database optimization**, and **high-performance backend solutions**.
 - 💻 Complement backend expertise with modern frontend skills (**React**, **TypeScript**) for full-stack delivery when needed.
@@ -71,9 +71,9 @@ Social network API for developers with real-time features, comprehensive testing
 
 ### 🏆 Certifications
 
-[![Microsoft](https://img.shields.io/badge/-Python%20Developer%20Professional%20Certificate-0078D4?style=flat&logo=microsoft&logoColor=white)](https://www.credly.com/users/bruno-alvez)
-[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud%20IAM%20%26%20Networking-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://www.credly.com/users/bruno-alvez)
-[![IBM](https://img.shields.io/badge/-JavaScript%20Programming%20Essentials-052FAD?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/bruno-alvez)
+- 🏅 **Python Developer Professional Certificate** - Microsoft (2025)
+- ☁️ **Google Cloud IAM and Networking for AWS Professionals** - Google (2025)
+- 💻 **JavaScript Programming Essentials** - IBM (2024)
 
 -----
 
