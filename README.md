@@ -46,7 +46,7 @@ Documentation of the primary systems I have architected and delivered:
 - **FAMATH LLM Agent** – Deterministic conversational agent powered by state machines and strict schemas  
 - **Silva Analytics Platform** – Multi-source customer intelligence and analytics system  
 - **DRE Engine** – Multi-tenant financial platform using FastAPI and Supabase  
-- **OpsForge** – Webhook delivery and monitoring (Go + Next.js)
+- **OpsForge** – Webhook delivery, monitoring and retries (Go + Next.js)
 
 Full case repository:  
 **github.com/Bruno-Alvez/bruno-cases**
@@ -55,7 +55,7 @@ Full case repository:
 
 ## Core Technologies
 
-Python · TypeScript · GoLang
+Python · TypeScript · Go  
 Fastify · FastAPI · Node.js · Prisma · SQLAlchemy  
 React · Next.js · Tailwind  
 PostgreSQL · Redis · Supabase  
