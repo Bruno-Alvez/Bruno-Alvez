@@ -55,7 +55,7 @@ Full case repository:
 
 ## Core Technologies
 
-Python · JavaScript · TypeScript  
+Python · TypeScript · GoLang
 Fastify · FastAPI · Node.js · Prisma · SQLAlchemy  
 React · Next.js · Tailwind  
 PostgreSQL · Redis · Supabase  
