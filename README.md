@@ -1,80 +1,39 @@
 # Bruno Alves
 
-Software Engineer (Backend & AI Systems) with experience designing and delivering production systems involving backend architecture, distributed processing, workflow automation and LLM-integrated components. I work end-to-end across design, implementation, deployment and maintenance, always optimizing for clarity, reliability and measurable business impact.
+Software Engineer. Backend, integrations and product systems. Python, Go, Node.js and AWS.
 
----
+I design and deliver systems end-to-end. Most of my work is backend-heavy, but I also ship full product slices when needed, from API to UI and deployment. I build reliable integrations, async processing pipelines, and LLM-enabled automation with governance and traceability.
 
-## Professional Summary
+## What you can expect in my work
 
-I build backend systems where correctness, predictable behavior and operational resilience matter. My work spans:
+- Production-grade APIs and services with clear contracts and predictable behavior  
+- Async processing with workers and queues for sync, enrichment and long-running workflows  
+- Reliability for external dependencies: rate limiting, retries with backoff, timeouts, idempotency  
+- Data modeling and performance on PostgreSQL, Redis and Supabase  
+- Observability and operations: structured logs, metrics, tracing, incident troubleshooting  
+- LLM components constrained by schemas, with auditability and operational controls  
 
-- deterministic LLM-integrated components used in real workflows  
-- distributed backend services using Fastify, FastAPI, Prisma and PostgreSQL  
-- real-time features built with SSE, queues and event-driven pipelines  
-- workflow automation across multiple external systems  
-- maintainable service/repository architectures with explicit domain boundaries  
+## Selected work
 
-I follow an engineering-first mindset: simple designs, explicit contracts, consistent data models and code that remains understandable and operable over time.
+- **FAMATH Enrollment Ecosystem**: Admin backoffice, student portal, WhatsApp LLM agent, payments and legacy sync  
+- **Fintech CRM with AI Lead Qualification**: WhatsApp ingestion, stage-based qualification, round-robin assignment, real-time Kanban updates
+- **DRE Engine**: Multi-tenant financial platform with rule versioning and consistency controls  
+- **OpsForge** (public): Observability and webhook delivery platform in Go  
 
----
+Case studies:  
+github.com/Bruno-Alvez/real-use-cases
 
-## Technical Focus
+Some production repositories are private due to company and client constraints. The case studies focus on decisions, trade-offs and representative snippets.
 
-**Backend Engineering**  
-Fastify, FastAPI, Node.js, Python, Prisma, SQLAlchemy, async processing, job queues.
+## Stack
 
-**AI Systems**  
-LLM orchestration, domain-constrained LLM components, classifiers, extractors, prompt design, RAG strategies.
-
-**System Architecture**  
-Event-driven flows, SSE for real-time delivery, API design, schema validation, security controls, observability.
-
-**Frontend**  
-React, Next.js, state isolation, API clients, real-time UI patterns.
-
-**Infrastructure**  
-Docker, Render, Vercel, Supabase, PostgreSQL, Redis, CI/CD.
-
----
-
-## Selected Case Studies
-
-Documentation of the primary systems I have architected and delivered:
-
-- **CRM InMov** – CRM platform with AI-driven SDR agent, WhatsApp message ingestion and real-time operations  
-- **FAMATH Enrollment System** – Full enrollment workflow with pricing engine, document intake and admin flow  
-- **FAMATH LLM Agent** – Deterministic conversational agent powered by state machines and strict schemas  
-- **Silva Analytics Platform** – Multi-source customer intelligence and analytics system  
-- **DRE Engine** – Multi-tenant financial platform using FastAPI and Supabase  
-- **OpsForge** – Webhook delivery, monitoring and retries (Go + Next.js)
-
-Full case repository:  
-**github.com/Bruno-Alvez/bruno-cases**
-
----
-
-## Core Technologies
-
-Python · TypeScript · Go  
-Fastify · FastAPI · Node.js · Prisma · SQLAlchemy  
-React · Next.js · Tailwind  
-PostgreSQL · Redis · Supabase  
-Docker · Render · Vercel  
-
----
-
-## Certifications
-
-Python Developer Professional Certificate — Microsoft  
-Generative AI Engineer — IBM  
-Google Cloud IAM & Networking — Google  
-JavaScript Programming Essentials — IBM  
-
----
+Python, Go, Node.js  
+FastAPI, Gin, Fastify  
+PostgreSQL, Redis, Supabase  
+AWS, Docker, Terraform, Kubernetes  
+OpenTelemetry, Prometheus, Grafana  
 
 ## Contact
 
-Email: **bruno.bsantos75@gmail.com**  
-LinkedIn: **linkedin.com/in/brunoalves-tech**
-
-Open to high-impact backend and AI-systems engineering roles.
+bruno.bsantos75@gmail.com  
+linkedin.com/in/brunoalves-tech
