@@ -1,39 +1,59 @@
 # Bruno Santos
 
-Software Engineer. Backend, integrations and product systems. Python, Go, Node.js and AWS.
+Software Engineer delivering backend-heavy systems and complete product flows.  
+Strong background in Python, Node.js and TypeScript, building products end-to-end with focus on reliability, integrations and operability.
 
-I design and deliver systems end-to-end. Most of my work is backend-heavy, but I also ship full product slices when needed, from API to UI and deployment. I build reliable integrations, async processing pipelines, and LLM-enabled automation with governance and traceability.
+Most of my work is backend-heavy, but I regularly deliver complete product flows — from backend services and async pipelines to frontend interfaces and deployment. I optimize for systems that can be understood, debugged and evolved by other engineers.
 
-## What you can expect in my work
+## What I actually work on
 
-- Production-grade APIs and services with clear contracts and predictable behavior  
-- Async processing with workers and queues for sync, enrichment and long-running workflows  
-- Reliability for external dependencies: rate limiting, retries with backoff, timeouts, idempotency  
+- Backend services and APIs with clear contracts and predictable behavior  
+- Async processing with workers, queues and schedulers for sync, enrichment and long-running workflows  
+- Integrations with unstable or legacy systems, designed with retries, backoff, idempotency and rate limits  
 - Data modeling and performance on PostgreSQL, Redis and Supabase  
-- Observability and operations: structured logs, metrics, tracing, incident troubleshooting  
-- LLM components constrained by schemas, with auditability and operational controls  
+- Product-facing flows and internal tools using React and Next.js when full ownership is required  
+- Operational concerns: logs, metrics, tracing, incident response and post-mortems  
+- LLM-enabled automation constrained by schemas, auditability and cost control  
 
-## Selected work
+## Selected projects
 
-- **FAMATH Enrollment Ecosystem**: Admin backoffice, student portal, WhatsApp LLM agent, payments and legacy sync  
-- **Fintech CRM with AI Lead Qualification**: WhatsApp ingestion, stage-based qualification, round-robin assignment, real-time Kanban updates
-- **DRE Engine**: Multi-tenant financial platform with rule versioning and consistency controls  
-- **OpsForge** (public): Observability and webhook delivery platform in Go  
+These projects reflect full product ownership, combining backend systems, async processing and user-facing flows.
 
-Case studies:  
-github.com/Bruno-Alvez/real-use-cases
+- **FAMATH Enrollment Ecosystem**  
+  End-to-end academic enrollment platform with admin backoffice, candidate portal, WhatsApp LLM agent, payments and legacy system synchronization. Designed async ingestion to avoid timeouts and ensure continuity of the enrollment flow.
 
-Some production repositories are private due to company and client constraints. The case studies focus on decisions, trade-offs and representative snippets.
+- **Fintech CRM with AI Lead Qualification**  
+  CRM platform with WhatsApp ingestion, LLM-driven lead qualification, stage-based pipelines, round-robin assignment, and real-time Kanban updates via WebSockets.
 
-## Stack
+- **Multi-tenant DRE Engine**  
+  Financial platform with rule versioning, consistency guarantees and tenant isolation, focused on correctness, auditability and historical integrity.
 
-Python, Go, Node.js  
-FastAPI, Gin, Fastify  
-PostgreSQL, Redis, Supabase  
-AWS, Docker, Terraform, Kubernetes  
-OpenTelemetry, Prometheus, Grafana  
+- **OpsForge** (public, in progress)  
+  Observability and webhook delivery platform focused on reliable event delivery, retries with exponential backoff, multi-tenant isolation and operational visibility.
+
+Case studies and representative snippets:  
+https://github.com/Bruno-Alvez/real-use-cases
+
+Some production repositories are private due to company and client constraints. Public case studies focus on architecture decisions, trade-offs and real production patterns.
+
+## Tech stack
+
+**Languages**  
+Python, Node.js, TypeScript
+
+**Backend & APIs**  
+FastAPI, Django REST Framework, Fastify, Express, REST APIs
+
+**Frontend**  
+React, Next.js, TailwindCSS
+
+**Data & Infra**  
+PostgreSQL, Redis, Supabase, AWS, Docker, CI/CD
+
+**Observability**  
+OpenTelemetry, Prometheus, Grafana
 
 ## Contact
 
-bruno.bsantos75@gmail.com  
-linkedin.com/in/brunoalves-tech
+- Email: bruno.bsantos75@gmail.com  
+- LinkedIn: https://linkedin.com/in/brunoalves-tech
