@@ -1,4 +1,4 @@
-**Staff Engineer & Software Architect** at [Nexly Group](https://nexlygroup.com) — building systems that hold up in production.
+**Software Engineer & Software Architect** at [Nexly Group](https://nexlygroup.com) — building systems that hold up in production.
 
 I design and implement backend-heavy platforms across the full delivery lifecycle: architecture decisions, async pipelines, API contracts, data modeling, observability and deployment. Most of my work lives at the intersection of correctness, operability and long-term maintainability.
 
