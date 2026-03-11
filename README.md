@@ -34,4 +34,4 @@ On architecture: I default to boring technology and reserve novelty for problems
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/brunoalves-tech) · [bruno.bsantos75@gmail.com](mailto:bruno.bsantos75@gmail.com)
+[LinkedIn](https://linkedin.com/in/brunosantos-tech) · [bruno.bsantos75@gmail.com](mailto:bruno.bsantos75@gmail.com)
